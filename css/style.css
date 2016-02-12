@@ -1,0 +1,71 @@
+h1 {
+    color: darkmagenta;
+    text-align: center;
+    font-family: garamond;
+   }
+
+   h3
+   {
+    color:darkred;
+    font-family:Comic Sans MS, cursive, sans-serif;
+   }
+
+header
+{
+    text-align:center;
+    border-bottom:black dashed 1px;
+}
+header h1
+{
+    padding:0;
+    margin:0;
+    font-family:Georgia, serif;
+}
+
+header p
+{
+    color:goldenrod;
+    margin-top:5px;
+    font-size:30;
+    padding:0;
+}
+section
+{
+    min-height:400px;
+}
+#container
+{
+    width:60%;
+    background:cornsilk;    
+    margin:20px auto;
+    overflow:auto;
+    padding:25px;
+    border:red 2px solid;
+}
+
+
+body {
+    background-color:greenyellow;
+    left-margin:20;
+    right-margin:20;
+    padding:40;
+    color:teal;
+    font-family:garamond;
+    font-weight:bold;
+
+
+}
+
+footer
+{
+    text-align:center;
+}
+input[type='submit']
+{
+    background:green;
+    border:0;
+    color:black;
+    font-weight:bold;
+    padding:10px 15px;
+    cursor:pointer;
+}
